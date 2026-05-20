@@ -1,13 +1,14 @@
 # About the project
 A game prototype that explores and recreates the Leviathan Axe throw mechanic from the Nordic God of War series using Unreal Engine 5. 
-![image_alt]([./assets/preview.png](https://github.com/srserge/God-Of-War-Axe/blob/9930423d814999f989eae172a1988b7c4d190d92/God_of_War_rebuild_cover.png))
+![image_alt](https://github.com/srserge/God-Of-War-Axe/blob/6da5186cc4bc09a8ed6768a474a5f10461bbeb86/God_of_War_rebuild_cover.png)
+
 _This is a study project based on the original God of War (2018) game developed by Santa Monica Studio._
 
 ## Table of Contents ##
 - [Technologies](#technologies)
 - [Features](#features)
 - [Development Process](#development-process)
-- [Game Controls¡](#game-controls)
+- [Game Controls](#game-controls)
 - [Learnings](#learnings)
 - [Improvements](#improvements)
 - [Acknowledgments](#acknowledgments)
@@ -41,7 +42,6 @@ _This is a study project based on the original God of War (2018) game developed 
 
 ## Game Controls ##
 ### PC ###
-|--------------|----------|
 | `Left Mouse Button` | Throw Axe |
 | `R Button` | Recall Axe |
 | `WASD` | Move |
@@ -49,7 +49,6 @@ _This is a study project based on the original God of War (2018) game developed 
 | `Right Mouse Button` | Aim |
 
 ### Console (PS) ###
-|--------------|----------|
 | `R2` | Throw Axe |
 | `Triangle` | Recall Axe |
 | `L` | Move |
@@ -80,4 +79,4 @@ _This is a study project based on the original God of War (2018) game developed 
 4. Go check the project's source code!
 
 ## Demo ##
-![video_alt](https://github.com/srserge/God-Of-War-Axe/blob/1ee368b762f66c8ced6dfd1c25ec55d17f645e1c/God_of_War_rebuilt_UE_Serge.mp4)
+![video_alt](https://github.com/srserge/God-Of-War-Axe/blob/6da5186cc4bc09a8ed6768a474a5f10461bbeb86/God_of_War_rebuilt_UE_Serge.mp4)
