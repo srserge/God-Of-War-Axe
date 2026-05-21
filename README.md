@@ -11,7 +11,7 @@ _This is a study project based on the original **God of War** (2018) IP, develop
 - [Development Process](#development-process)
 - [Game Controls](#game-controls)
 - [Learnings](#learnings)
-- [Improvements](#improvements)
+- [Future Improvements](#future-improvements)
 - [Acknowledgments](#acknowledgments)
 - [How to Run the Project](#how-to-run-the-project)
 
@@ -54,7 +54,7 @@ _This is a study project based on the original **God of War** (2018) IP, develop
 - I've expanded my understanding of FSM architecture by managing multiple concurrent states between Kratos and the Leviathan Axe while keeping the code clean.
 - I implemented a curved recall path with a maximum flight time limit, ensuring a consistently satisfying return feel regardless of distance.
 
-## Improvements ##
+## Future Improvements ##
 - Melee combat attacks
 - Heavy throw axe attack with freezing effect
 - Smart enemy AI combat
@@ -71,7 +71,7 @@ _This is a study project based on the original **God of War** (2018) IP, develop
 1. Download the project 
 2. [Read game controls](#game-controls)
 3. Launch **God_Of_War_Axe.exe**
-4. Go check the project's source code!
+4. Go check the project source code!
 
 ## Video ##
 ![Demo showcase video](https://youtu.be/UR2G9bh5-0k)
