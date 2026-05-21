@@ -1,8 +1,9 @@
 # About the project
 A game prototype that explores and recreates the Leviathan Axe throw mechanic from the Nordic God of War series using Unreal Engine 5. 
-![image_alt](https://github.com/srserge/God-Of-War-Axe/blob/6da5186cc4bc09a8ed6768a474a5f10461bbeb86/God_of_War_rebuild_cover.png)
 
-_This is a study project based on the original God of War (2018) game developed by Santa Monica Studio._
+![image_alt](https://github.com/srserge/God-Of-War-Axe/blob/5e91d28089713084189b46f5277e29d92a208868/god-of-war-axe-throw-cover.png)
+
+_This is a study project based on the original **God of War** (2018) IP, developed by Santa Monica Studio._
 
 ## Table of Contents ##
 - [Technologies](#technologies)
@@ -41,19 +42,13 @@ _This is a study project based on the original God of War (2018) game developed 
 - This helps me better understand everything I’ve built and makes me fully aware of the scope of the project. I believe this is a best practice to follow when working on projects like this.
 
 ## Game Controls ##
-### PC ###
-| `Left Mouse Button` | Throw Axe |
-| `R Button` | Recall Axe |
-| `WASD` | Move |
-| `Left Shift` | Sprint |
-| `Right Mouse Button` | Aim |
-
-### Console (PS) ###
-| `R2` | Throw Axe |
-| `Triangle` | Recall Axe |
-| `L` | Move |
-| `L3` | Sprint |
-| `L2` | Aim |
+| Action | PC | Console (PS) |
+|--------|----|--------------|
+| Throw Axe | `LMB` | `R2` |
+| Recall Axe | `R` | `Triangle` |
+| Move | `WASD` | `L` |
+| Sprint | `Left Shift` | `L3` |
+| Aim | `RMB` | `L2` |
 
 ## Learnings ##
 - I've expanded my understanding of FSM architecture by managing multiple concurrent states between Kratos and the Leviathan Axe while keeping the code clean.
@@ -66,7 +61,7 @@ _This is a study project based on the original God of War (2018) game developed 
 - Atreus companion AI
 
 ## Acknowledgments ##
-- [Frank RPG Dual Animset]([https://url.com](https://www.unrealengine.com/marketplace/en-US/product/frank-rpg-dual)) — Enemy hit reaction anims
+- [Frank RPG Dual Animset](https://www.unrealengine.com/marketplace/en-US/product/frank-rpg-dual) — Enemy hit reaction anims
 - [Brutal Double Axe AnimSet](https://www.fab.com/listings/7bbab41c-3f0b-40e1-9c15-bf14bc16ed73) — Kratos locomotion anims
 - [God of War's Leviathon Axe Throw, Lewis Fiford](https://youtu.be/zrTj_kZlzoU?si=ldPVi3lLsyn8V11e) — Kratos Axe Throw anims
 - [Niagara Blood VFX Pack](https://www.unrealengine.com/marketplace/en-US/product/niagara-blood-vfx-pack-01) — Enemy blood VFX
@@ -78,5 +73,5 @@ _This is a study project based on the original God of War (2018) game developed 
 3. Launch **God_Of_War_Axe.exe**
 4. Go check the project's source code!
 
-## Demo ##
-![video_alt](https://github.com/srserge/God-Of-War-Axe/blob/6da5186cc4bc09a8ed6768a474a5f10461bbeb86/God_of_War_rebuilt_UE_Serge.mp4)
+## Video ##
+![Demo showcase video](https://youtu.be/UR2G9bh5-0k)
