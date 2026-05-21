@@ -1,9 +1,10 @@
 # About the project
 A game prototype that explores and recreates the Leviathan Axe throw mechanic from the Nordic God of War series using Unreal Engine 5. 
 
-![image_alt](https://github.com/srserge/God-Of-War-Axe/blob/5e91d28089713084189b46f5277e29d92a208868/god-of-war-axe-throw-cover.png)
+[![image_alt](https://github.com/srserge/God-Of-War-Axe/blob/5e91d28089713084189b46f5277e29d92a208868/god-of-war-axe-throw-cover.png)](https://youtu.be/UR2G9bh5-0k?si=doCtxTWKJcazKAkK)
+_Click on this image to watch the video showcasing the playable demo._
 
-_This is a study project based on the original **God of War** (2018) IP, developed by Santa Monica Studio._
+> This is a study project based on the original **God of War** (2018) IP, developed by Santa Monica Studio.
 
 ## Table of Contents ##
 - [Technologies](#technologies)
