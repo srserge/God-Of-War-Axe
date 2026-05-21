@@ -74,4 +74,4 @@ _This is a study project based on the original **God of War** (2018) IP, develop
 4. Go check the project source code!
 
 ## Video ##
-![Demo showcase video](https://youtu.be/UR2G9bh5-0k)
+![Demo showcase video](https://youtu.be/UR2G9bh5-0k?si=doCtxTWKJcazKAkK)
