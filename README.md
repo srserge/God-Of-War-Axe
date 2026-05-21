@@ -74,4 +74,4 @@ _Click on this image to watch the video showcasing the playable demo._
 3. Launch **God_Of_War_Axe.exe**
 4. Go check the project source code!
 
-[⬇️ Download the playable build](https://drive.google.com/file/d/14b1yzP1ytGlo15F3vXUrSOmdpmveEEFr/view?usp=drive_link)
+[⬇️ Download the playable build!](https://drive.google.com/file/d/14b1yzP1ytGlo15F3vXUrSOmdpmveEEFr/view?usp=drive_link)
