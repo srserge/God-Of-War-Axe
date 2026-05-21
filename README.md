@@ -73,6 +73,3 @@ _Click on this image to watch the video showcasing the playable demo._
 2. [Read game controls](#game-controls)
 3. Launch **God_Of_War_Axe.exe**
 4. Go check the project source code!
-
-## Video ##
-![Demo showcase video](https://youtu.be/UR2G9bh5-0k?si=doCtxTWKJcazKAkK)
